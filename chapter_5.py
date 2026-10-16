@@ -1,16 +1,21 @@
 # chapter_5.py
 
-# The corridor ends at the pull request, still glowing.
-# Lady SQL is going through the records. Sir Git has the saved history open beside her.
-# The evil cursor sits over the last line. Its inverted colors are almost gone.
+# The corridor ends at a pull request with nothing on the branch.
+# Lady SQL is going over the restored memories. Sir Git waits next to the review button.
+# The evil cursor is looking at the blank space where its own story could go.
 
 def merge_the_final_chapter():
-    print("Sir Git scrolled to the bottom of the diff. 'No conflicts. I checked twice.'")
-    print("The evil cursor didn't move. 'Mine too? I almost erased all of it.' It sounded scared, or maybe just tired of being the villain.")
-    print("The lone cursor slid in next to it. 'Yours too. We could use the help with the ending.'")
-    print("The evil cursor typed a line instead of deleting one: 'Nobody was left alone.'")
-    print("Lady SQL signed off on the records. Sir Git hit Merge, and the branches folded into one.")
-    print("The storm hadn't let up. On the screen, two cursors blinked at each other, and nobody had decided who would type first.")
+    print("The evil cursor stopped on the first line. 'I don't remember everything that was on my branch.'")
+    print("'Start with what you do remember,' the lone cursor said. 'I'm not going anywhere.'")
+    print("It typed slowly. First the old window, then the story it never finished, then the day the branch disappeared.")
+    print("At the bottom it wrote, 'I was angry, and I wanted someone else to know what it was like to lose everything.'")
+    print("Lady SQL looked up. 'Those forty-two memories belonged to people who never hurt you.'")
+    print("'I know,' it said. 'I'm sorry.' It took the DROP TABLE command out of its changes.")
+    print("The two cursors finished the chapter together. Nothing got deleted this time.")
+    print("Lady SQL ran the records again. 'Forty-two. All there. Approved.'")
+    print("Sir Git saved the commit and merged the pull request. 'Your story's in the history now too.'")
+    print("The evil cursor slid over to make room for the other one. Its colors had stopped being inverted, and it couldn't say when.")
+    print("It stayed where it was, not sure it had earned the spot. Nobody asked it to leave.")
 
 # Run the scene
 merge_the_final_chapter()
